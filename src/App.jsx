@@ -1,7 +1,9 @@
+import DestinationContainer from "./DestinationContainer"
+
 function App() {
   return (
-    <div>
-      {/* Your code here */}
+    <div style={{background:"black"}}>
+      <DestinationContainer />
     </div>
   )
 }
